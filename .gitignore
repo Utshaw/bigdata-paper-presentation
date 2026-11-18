@@ -1,0 +1,10 @@
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+
+# Downloaded only to extract Figure 4(b); not needed to build the deck.
+assets/phoenix-rebirth-paper.pdf
+assets/phoenix-fig4b.png
